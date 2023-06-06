@@ -1,0 +1,95 @@
+.img_1{
+    width: 500px;
+    width: 500px;
+    border-radius: 40px;
+    margin: 10px 10px 10px 10px;
+}
+
+.backgroundImg{
+    background-color: rgb(86, 153, 19);
+    border-radius: 20px 0px 0px 20px
+}
+
+.padding-form{
+    padding: 0px 85px 0px 85px;
+}
+
+.height{
+    height: 100%;
+}
+
+.Formm-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(86, 153, 19);
+}
+
+.boton-color1{
+    background-color: #aed581;
+}
+
+.boton-color1:hover{
+    background-color: rgb(57, 75, 40);
+}
+
+
+.backgroundimg2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 90vh;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url("img/one-piece-mugiwara-crew-wallpaper-3840x2400_9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.principal{
+    font-weight: bolder;
+    font-size: 80px;
+    color: antiquewhite;
+}
+
+.logo-migui{
+    height: 55px;
+    border-radius: 30%;
+    margin: 5px;
+}
+
+.btn-editt{
+
+        background-color: #b63737;
+        
+}
+
+.btn-editt:hover{
+    background-color: rgb(63, 11, 11); 
+}
+
+.title-home{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.us{
+    height: 95vh;
+}
+
+.list-left{
+    margin-left: 50px    ;
+}
+
+.title-oboutus{
+    font-size: 50px;
+    font-weight: bold;
+    color: #42a5f5;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
